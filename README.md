@@ -1,2 +1,3 @@
-# BIT-GameOfLifes
+# BIT-task
 
+JAVA basics: GameOfLife
