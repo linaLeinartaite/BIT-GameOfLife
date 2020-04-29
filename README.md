@@ -1,6 +1,6 @@
 # BIT-task
 
-JAVA basics: GameOfLife
+JAVA basics: GAME OF LIFE
 
 The “Game of Life” was invented by John Horton Conway, a British-born mathematician who is now a professor at Princeton.
 
